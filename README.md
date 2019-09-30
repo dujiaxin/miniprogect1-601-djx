@@ -14,7 +14,11 @@
 - [x] weimin, add your list from here
 - [x] clone the repository --weimin li
 - [x] add the team member --weimin li
-- [x] add Git Tutorial --weimin li 
+- [x] add git Tutorial --weimin li
+- [ ] write about continues integration in README.md --weimin li
+- [ ] creat index about gitFlow and Git commands --weimin li
+- [ ] explain the gitFlow --weimin li
+- [ ] define and give examples of Git commands --weimin li
 
 * [vi tutorial](/vi.md)
 * [git tutorial](/git.md)
