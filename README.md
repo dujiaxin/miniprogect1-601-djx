@@ -17,4 +17,4 @@
 - [x] add Git Tutorial --weimin li 
 
 * [vi tutorial](/vi.md)
-* [Git Tutorial](/Git Tutorial.md)
+* [git tutorial](/git.md)
