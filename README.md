@@ -1,5 +1,7 @@
 # miniprogect1-601-djx
-
+# Team member
+ * Jiaxin Du
+ * Weimin Li UCID: wl328
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] Created the repo --dujiaxin
 - [x] add image folder --dujiaxin
@@ -9,6 +11,10 @@
 - [ ] write vi tutorial
 - [ ] write commands tutorial
 
-- [ ] weimin, add your list from here
+- [x] weimin, add your list from here
+- [x] clone the repository --weimin li
+- [x] add the team member --weimin li
+- [x] add Git Tutorial --weimin li 
 
 * [vi tutorial](/vi.md)
+* [Git Tutorial](/Git Tutorial.md)
