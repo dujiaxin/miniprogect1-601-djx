@@ -41,7 +41,7 @@ The code in the release branch is deployed onto a suitable test environment, tes
 
 Hotfix branches are used to create emergency fixes:
 
-![hotfix](/images/hotfix&master&develop.PNG)
+![hotfix&master&develop](/images/hotfix&master&develop.PNG)
 
 They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure that the hotfix isn’t accidentally lost when the next regular release occurs.
 
