@@ -5,10 +5,15 @@
 - [x] add image folder --dujiaxin
 - [x] add .gitignore and README.md --dujiaxin
 - [ ] write about continues itegration in README.md --dujiaxin
-- [ ] create index about  basic commands and vi --dujiaxin
-- [ ] write vi tutorial
+- [x] create index about linux file system basic commands and vi --dujiaxin
+- [ ] write about linux directory --dujiaxin
+- [ ] write linux basic commands tutorial --dujiaxin
+- [ ] write vi tutorial tutorial --dujiaxin
 - [ ] write commands tutorial
 
 - [ ] weimin, add your list from here
 
+## index
+* [linux directory](/linux_directory.md)
+* [linux basic commands tutorial](/commands.md)
 * [vi tutorial](/vi.md)
