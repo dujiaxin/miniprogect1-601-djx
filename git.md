@@ -3,3 +3,5 @@
 * [gitFlow](/gitFlow.md)
 * [Repository](/Repository.md)
 * [Fork](/Fork.md)
+* [Clone](/Clone.md)
+
