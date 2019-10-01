@@ -21,5 +21,6 @@ This procedure assumes you have already created a repository on GitHub, or have 
 * Type    git clone ,and then paste the URL you copied in Step2.
 
     git clone https://github.com/wl328Weiminli/repo
+
 * press ENTER. Your local clone will be created.
 
