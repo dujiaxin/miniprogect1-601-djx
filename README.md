@@ -1,6 +1,6 @@
 # miniprogect1-601-djx
 # Team member
- * Jiaxin Du
+ * Jiaxin Du UCID:jd688
  * Weimin Li UCID: wl328
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] Created the repo --dujiaxin
