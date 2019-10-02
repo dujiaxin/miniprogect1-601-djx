@@ -7,22 +7,22 @@ What is this commands? Why do you do it? How do you do it?
 
 Fluency on the command line is a skill often neglected or considered arcane, but it improves your flexibility and productivity as an engineer in both obvious and subtle ways. This is a selection of notes and tips on using the command-line that we've found useful when working on Linux. Some tips are elementary, and some are fairly specific, sophisticated, or obscure. This page is not long, but if you can use and recall all the items here, you know a lot.
 
-
+* [pwd](#pwd)
+* [Home directory and ~(#Home directory and ~)](#Home directory and ~)
 * [cd](#cd)
 * [mkdir](#mkdir)
 * [cp](#cp)
-* [pwd](#pwd)
 * [mv](#mv)
 * [rm](#rm)
 * [history](#history)
-* [Home directory and ~(#Home directory and ~)](#Home directory and ~)
-* file paths in linux
-* Using the tab key to complete file paths(#Using the tab key to complete file paths)
-* Using up and down arrow for history(#Using up and down arrow for history)
+* [Using the tab key to complete file paths](#Using the tab key to complete file paths)
+* [Using up and down arrow for history](#Using up and down arrow for history)
 
 ## pwd
 The pwd tool prints the name of the present/current working directory (PWD - Present Working Directory). Following is its syntax:
+
 ![Image of pwd](/images/pwd.png)
+
 You can see currently where we are. 
 *(base)* is a python virtual environment, you don't have to know it for now.
 *dujiaxin* is my user name.
@@ -35,6 +35,7 @@ A home directory is created automatically for every ordinary user in the directo
 
 ## cd
 *cd* stands for *"change directory"*, it can bring you to anywhere you want in your computer that you can access.
+
 ![Image of cd](/images/cd.png)
 
 - Go to your home directory with `cd`. Access files relative to your home directory with the `~` prefix (e.g. `~/.bashrc`). In `sh` scripts refer to the home directory as `$HOME`.
@@ -42,19 +43,27 @@ A home directory is created automatically for every ordinary user in the directo
 - To go back to the previous working directory: `cd -`.
 
 ## mkdir
+
 mkdir make a directory
+
 ![Image of pwd](/images/mkdir.png)
 
 ## cp
+
 copy
+
 ![Image of cp](/images/cp.png)
 
 ## mv
+
 move something
+
 ![Image of mv](/images/mv.png)
 
 ## rm
+
 remove
+
 ![Image of rm](/images/rm.png)
 
 ## Using the tab key to complete file paths
