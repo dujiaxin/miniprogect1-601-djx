@@ -5,7 +5,7 @@ What is this commands? Why do you do it? How do you do it?
 Fluency on the command line is a skill often neglected or considered arcane, but it improves your flexibility and productivity as an engineer in both obvious and subtle ways. This is a selection of notes and tips on using the command-line that we've found useful when working on Linux. Some tips are elementary, and some are fairly specific, sophisticated, or obscure. This page is not long, but if you can use and recall all the items here, you know a lot.
 
 * [pwd](#pwd)
-* [Home directory and ~(#Home directory and ~)](#Home directory and ~)
+* [Home directory and ~](#Home) 
 * [ls](#ls)
 * [cd](#cd)
 * [mkdir](#mkdir)
@@ -13,8 +13,8 @@ Fluency on the command line is a skill often neglected or considered arcane, but
 * [mv](#mv)
 * [rm](#rm)
 * [history](#history)
-* [Using the tab key to complete file paths](#Using the tab key to complete file paths)
-* [Using up and down arrow for history](#Using up and down arrow for history)
+* [tab](#tab)
+* [arrow](#arrow)
 
 ## pwd
 The pwd tool prints the name of the present/current working directory (PWD - Present Working Directory). Following is its syntax:
@@ -80,8 +80,12 @@ remove document
 
 ![Image of rm](/images/rm.png)
 
-## Using the tab key to complete file paths
+## tab
 In Bash, use **Tab** to complete arguments or list all available commands and **ctrl-r** to search through command history (after pressing, type to search, press **ctrl-r** repeatedly to cycle through more matches, press **Enter** to execute the found command, or hit the right arrow to put the result in the current line to allow editing).
+
+## arrow
+
+Using up and down arrow for history. Just try it.
 
 ## history
 To see recent commands, use `history`. Follow with `!n` (where `n` is the command number) to execute again. There are also many abbreviations you can use, the most useful probably being `!$` for last argument and `!!` for last command (see "HISTORY EXPANSION" in the man page). However, these are often easily replaced with **ctrl-r** and **alt-.**.
