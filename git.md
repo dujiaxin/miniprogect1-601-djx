@@ -5,3 +5,4 @@
 * [Fork](/Fork.md)
 * [Clone](/Clone.md)
 * [Branch](/branch.md)
+* [Commit](/Commit.md)

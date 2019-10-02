@@ -12,4 +12,4 @@ When you make a commit, you must include a commit message that briefly describes
 
 For example 
 
-
+![commit](/images/commit.PNG)
