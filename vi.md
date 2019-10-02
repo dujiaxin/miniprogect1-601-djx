@@ -10,12 +10,12 @@ It's necessary to learn at least one text-based editor well. The `nano` editor i
 ## Quitting Vim
 This is the very first thing I had to learn while using Vim. There are plenty of times when I screwed up. Learning how to quit Vim saved me countless times.
 
-Type **:q** and hit Enter.
+Type `:q` and hit Enter.
 
 ![Image of quite](/images/quite_vim.png)
 
 *Note: Vim won’t let you out without this method. **Ctrl + C** doesn’t work.*
-
+ 
 ## Navigating the file
 
 Vim offers a really complicated set of ways you can use to navigate the text file.
@@ -124,7 +124,8 @@ The syntax for the operation would be
 
 ![Image of count_result](/images/count_result.png)
 
-Notice the “gn” part? It’s responsible for overriding the substitute behavior.
+Notice the `gn` part? It’s responsible for overriding the substitute behavior.
 
-##Final thoughts
+## Final thoughts
+
 Vi is very powerful, google it for more!

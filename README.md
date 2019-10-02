@@ -14,6 +14,5 @@
 - [ ] weimin, add your list from here
 
 ## index
-* [linux directory](/linux_directory.md)
 * [linux basic commands tutorial](/commands.md)
 * [vi tutorial](/vi.md)
