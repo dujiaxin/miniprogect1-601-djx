@@ -1,17 +1,21 @@
 # miniprogect1-601-djx
-# Team member
- * Jiaxin Du UCID:jd688
+This is a class project for IS601
+
+## Team member
+ * Jiaxin Du UCID: jd688
  * Weimin Li UCID: wl328
+ 
+## change log
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] Created the repo --dujiaxin
 - [x] add image folder --dujiaxin
 - [x] add .gitignore and README.md --dujiaxin
-- [ ] write about continues itegration in README.md --dujiaxin
+- [x] write about continues itegration in README.md --dujiaxin
 - [x] create index about linux file system basic commands and vi --dujiaxin
-- [ ] write about linux directory --dujiaxin
-- [ ] write linux basic commands tutorial --dujiaxin
-- [ ] write vi tutorial tutorial --dujiaxin
-- [ ] write commands tutorial
+- [x] write about linux directory --dujiaxin
+- [x] write linux basic commands tutorial --dujiaxin
+- [x] write vi tutorial tutorial --dujiaxin
+- [x] write commands tutorial
 
 - [x] weimin, add your list from here
 - [x] clone the repository --weimin li
