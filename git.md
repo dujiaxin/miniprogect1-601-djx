@@ -6,3 +6,4 @@
 * [Clone](/Clone.md)
 * [Branch](/branch.md)
 * [Commit](/Commit.md)
+* [merge](/merge.md)
