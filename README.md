@@ -24,6 +24,8 @@ This is a class project for IS601
 - [x] creat index about gitFlow and Git commands --weimin li
 - [x] explain the gitFlow --weimin li
 - [x] define and give examples of Git commands --weimin li
+- [x] write git tutorial --weimin li
+- [x] write git Flow tutorial --weimin li
 
 ## why learning git and commands
 **git** plays important role in version control, helping you to manage your work (sometimes your team work) works nicely.
