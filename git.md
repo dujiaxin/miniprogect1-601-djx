@@ -8,3 +8,4 @@
 * [Commit](/Commit.md)
 * [merge](/merge.md)
 * [checkout](/checkout.md)
+* [push](/push.md)
