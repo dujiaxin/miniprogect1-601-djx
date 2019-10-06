@@ -4,4 +4,4 @@ The git status command displays the state of the working directory and the stagi
 
     git status
 
-![status](/images/status.md)
+![status](/images/status.PNG)
