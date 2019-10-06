@@ -12,3 +12,4 @@
 * [pull](/pull.md)
 * [remote add](/remoteadd.md)
 * [remote remove/show](/showre.md)
+* [status](/status.md)
