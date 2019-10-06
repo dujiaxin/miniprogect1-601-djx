@@ -10,3 +10,5 @@
 * [checkout](/checkout.md)
 * [push](/push.md)
 * [pull](/pull.md)
+* [remote add](/remoteadd.md)
+
