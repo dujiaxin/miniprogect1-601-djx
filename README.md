@@ -21,10 +21,9 @@ This is a class project for IS601
 - [x] clone the repository --weimin li
 - [x] add the team member --weimin li
 - [x] add git Tutorial --weimin li
-- [ ] write about continues integration in README.md --weimin li
-- [ ] creat index about gitFlow and Git commands --weimin li
+- [x] creat index about gitFlow and Git commands --weimin li
 - [x] explain the gitFlow --weimin li
-- [ ] define and give examples of Git commands --weimin li
+- [x] define and give examples of Git commands --weimin li
 
 ## why learning git and commands
 **git** plays important role in version control, helping you to manage your work (sometimes your team work) works nicely.
@@ -55,3 +54,4 @@ While I was reading [Martin Fowler's blog](#https://martinfowler.com/articles/co
 * [linux basic commands tutorial](/commands.md)
 * [vi tutorial](/vi.md)
 * [git tutorial](/git.md)
+* [git flow](/gitFlow.md)
