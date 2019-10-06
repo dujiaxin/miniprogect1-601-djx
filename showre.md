@@ -20,4 +20,4 @@ View the remote repository, as well as the relationship with the local repositor
 
     git remote show origin
 
-![show](/image/show.PNG)
+![show](/images/show.PNG)
