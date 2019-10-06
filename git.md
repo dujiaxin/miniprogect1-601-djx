@@ -7,3 +7,4 @@
 * [Branch](/branch.md)
 * [Commit](/Commit.md)
 * [merge](/merge.md)
+* [checkout](/checkout.md)
