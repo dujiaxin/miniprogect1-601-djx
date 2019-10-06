@@ -11,4 +11,4 @@
 * [push](/push.md)
 * [pull](/pull.md)
 * [remote add](/remoteadd.md)
-
+* [remote remove/show](remotere.md)
