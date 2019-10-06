@@ -9,3 +9,4 @@
 * [merge](/merge.md)
 * [checkout](/checkout.md)
 * [push](/push.md)
+* [pull](/pull.md)
