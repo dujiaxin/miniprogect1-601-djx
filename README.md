@@ -6,7 +6,6 @@ This is a class project for IS601
  * Weimin Li UCID: wl328
  
 ## change log
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] Created the repo --dujiaxin
 - [x] add image folder --dujiaxin
 - [x] add .gitignore and README.md --dujiaxin
