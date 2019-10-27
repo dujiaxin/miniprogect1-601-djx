@@ -139,7 +139,35 @@ In the class-based object-oriented programming paradigm, object refers to a part
 ## Static
 A static variable is a variable that has been allocated "statically", meaning that its lifetime (or "extent") is the entire run of the program. This is in contrast to shorter-lived automatic variables, whose storage is stack allocated and deallocated on the call stack; and in contrast to objects, whose storage is dynamically allocated and deallocated in heap memory.
 ## Property / Attribute
+In python, everything is an object. And every object has attributes and methods or functions. Attributes are described by data variables for example like name, age, height etc.
 
+Properties are special kind of attributes which have getter, setter and delete methods like __get__, __set__ and __delete__ methods.
+
+However, there is a property decorator in Python which provides getter/setter access to an attribute Properties are a special kind of attributes. Basically, when Python encounters the following code:
+```python
+foo = SomeObject()
+print(foo.bar)
+```
+it looks up bar in foo, and then examines bar to see if it has a __get__, __set__, or __delete__ method and if it does, it's a property. If it is a property, instead of just returning the bar object, it will call the __get__ method and return whatever that method returns.
+
+In Python, you can define getters, setters, and delete methods with the property function. If you just want the read property, there is also a `@property` decorator you can add above your method.
+```python
+class C(object):
+    def __init__(self):
+        self._x = None
+#C._x is an attribute
+@property
+    def x(self):
+        """I'm the 'x' property."""
+        return self._x
+# C._x is a property   This is the getter method
+@x.setter # This is the setter method
+    def x(self, value):
+        self._x = value
+@x.deleter # This is the delete method
+    def x(self):
+        del self._x
+```
 ## Method
 
 ## Exception
