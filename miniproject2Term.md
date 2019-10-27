@@ -169,6 +169,7 @@ class C(object):
         del self._x
 ```
 ## Method
+A method is a function that takes a class instance as its first parameter. Methods are members of classes.
 
 ## Exception
 
