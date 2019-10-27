@@ -18,34 +18,34 @@ definitions and examples of the following terms:
 * [CSV Files](#arrow)
 * [Reading Files](#arrow)
 
-##How Python uses Indentation to control Flow
+## How Python uses Indentation to control Flow
 
-##Don't Repeat Yourself
+## Don't Repeat Yourself
 
-##Design Patterns from Gang of Four
+## Design Patterns from Gang of Four
 
-##Class
+## Class
 
-##Object
+## Object
 
-##Static
+## Static
 
-##Property/Attribute
+## Property/Attribute
 
-##Method
+## Method
 
-##Exception
+## Exception
 
-##Unit Test
+## Unit Test
 
-##Constructor
+## Constructor
 
-##Factory
+## Factory
 
-##Decorator
+## Decorator
 
-##Extend Class
+## Extend Class
 
-##CSV Files
+## CSV Files
 
-##Reading Files
+## Reading Files
