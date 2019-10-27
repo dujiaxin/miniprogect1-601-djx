@@ -133,7 +133,9 @@ A class is an extensible program-code-template for creating objects, providing i
 
 Instance attributes are owned by the specific instances of a class. This means for two different instances the instance attributes are usually different. We can also define attributes at the class level. Class attributes are attributes which are owned by the class itself. They will be shared by all the instances of the class. Therefore they have the same value for every instance. We define class attributes outside of all the methods, usually they are placed at the top, right below the class header.
 ## Object
+An object can be a variable, a data structure, a function, or a method, and as such, is a value in memory referenced by an identifier.
 
+In the class-based object-oriented programming paradigm, object refers to a particular instance of a class, where the object can be a combination of variables, functions, and data structures.
 ## Static
 A static variable is a variable that has been allocated "statically", meaning that its lifetime (or "extent") is the entire run of the program. This is in contrast to shorter-lived automatic variables, whose storage is stack allocated and deallocated on the call stack; and in contrast to objects, whose storage is dynamically allocated and deallocated in heap memory.
 ## Property / Attribute
