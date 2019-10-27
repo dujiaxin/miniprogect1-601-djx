@@ -44,15 +44,18 @@ if x > 10:
 # we are outside of the if-block; there are no leading whitespace characters
 x = x + 3
 ```
-Look to the example at the beginning of this section to see the bodies of the function definition, the for-loop, and the subsequent if-else block were all separated by increasing levels of indentation.
+Look to the example at the beginning of this section to see the bodies of the function definition, the for-loop, and the subsequent `if-else` block were all separated by increasing levels of indentation.
 
-Python’s syntax is quite flexible in terms of what it defines as a whitespace delimiter. Its rules are that:
+Python’s syntax is quite flexible in terms of what it defines as a **whitespace delimiter**. Its rules are that:
 
 One or more whitespace characters (spaces or tabs) is sufficient to serve as indentation.
 A given indented block must use a uniform level of indentation. E.g. if the first line of an indented block has two leading spaces, all subsequent lines in that block must lead with exactly two white spaces.
-While Python’s syntax is relatively forgiving, I am not: the standard style for indenting in Python is to use four space characters for each level of indentation. It is strongly advised that you adhere to this standard. Most IDEs and consoles (including Jupyter notebooks) will automatically add a four-space indentation for you when you enter into the body of one of the aforementioned constructs.
-See this [Link](#https://www.python.org/dev/peps/pep-0008/#indentation)
+While Python’s syntax is relatively forgiving, I am not: the [standard style](https://www.python.org/dev/peps/pep-0008/#indentation) for indenting in Python is to use four space characters for each level of indentation. It is strongly advised that you adhere to this standard. Most IDEs and consoles (including Jupyter notebooks) will automatically add a four-space indentation for you when you enter into the body of one of the aforementioned constructs.
+
 ## Don't Repeat Yourself
+**Don't repeat yourself** is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
+
+The **DRY** principle is stated as "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system". When the DRY principle is applied successfully, a modification of any single element of a system does not require a change in other logically unrelated elements. Additionally, elements that are logically related all change predictably and uniformly, and are thus kept in sync. Besides using methods and subroutines in their code, Thomas and Hunt rely on code generators, automatic build systems, and scripting languages to observe the DRY principle across layers.
 
 ## Design Patterns from Gang of Four
 

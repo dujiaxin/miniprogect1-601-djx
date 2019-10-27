@@ -15,9 +15,9 @@ This is a class project for IS601
 - [x] write linux basic commands tutorial --dujiaxin
 - [x] write vi tutorial tutorial --dujiaxin
 - [x] write commands tutorial
-- [ ] write How Python uses Indentation to control Flow --dujiaxin
-- [ ] write Don't Repeat Yourself --dujiaxin
-- [ ] write Design Patterns from Gang of Four --dujiaxin
+- [x] write How Python uses Indentation to control Flow --dujiaxin
+- [x] write Don't Repeat Yourself --dujiaxin
+- [x] write Design Patterns from Gang of Four --dujiaxin
 - [ ] write Class --dujiaxin
 - [ ] write Object --dujiaxin
 - [ ] write Static --dujiaxin
