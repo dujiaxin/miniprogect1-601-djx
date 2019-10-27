@@ -15,6 +15,14 @@ This is a class project for IS601
 - [x] write linux basic commands tutorial --dujiaxin
 - [x] write vi tutorial tutorial --dujiaxin
 - [x] write commands tutorial
+- [ ] write How Python uses Indentation to control Flow --dujiaxin
+- [ ] write Don't Repeat Yourself --dujiaxin
+- [ ] write Design Patterns from Gang of Four --dujiaxin
+- [ ] write Class --dujiaxin
+- [ ] write Object --dujiaxin
+- [ ] write Static --dujiaxin
+- [ ] write Property / Attribute --dujiaxin
+- [ ] write Method --dujiaxin
 
 - [x] weimin, add your list from here
 - [x] clone the repository --weimin li
@@ -25,6 +33,14 @@ This is a class project for IS601
 - [x] define and give examples of Git commands --weimin li
 - [x] write git tutorial --weimin li
 - [x] write git Flow tutorial --weimin li
+- [ ] write Exception --weimin li
+- [ ] write Unit Test --weimin li
+- [ ] write Constructor --weimin li
+- [ ] write Factory --weimin li
+- [ ] write Decorator --weimin li
+- [ ] write Extend Class --weimin li
+- [ ] write CSV Files --weimin li
+- [ ] write Reading Files --weimin li
 
 ## why learning git and commands
 **git** plays important role in version control, helping you to manage your work (sometimes your team work) works nicely.
@@ -56,3 +72,4 @@ While I was reading [Martin Fowler's blog](#https://martinfowler.com/articles/co
 * [vi tutorial](/vi.md)
 * [git tutorial](/git.md)
 * [git flow](/gitFlow.md)
+* [Additional terms(miniproject2)](/miniproject2Term.md)
