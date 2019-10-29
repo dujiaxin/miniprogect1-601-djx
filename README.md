@@ -33,14 +33,14 @@ This is a class project for IS601
 - [x] define and give examples of Git commands --weimin li
 - [x] write git tutorial --weimin li
 - [x] write git Flow tutorial --weimin li
-- [ ] write Exception --weimin li
-- [ ] write Unit Test --weimin li
-- [ ] write Constructor --weimin li
-- [ ] write Factory --weimin li
-- [ ] write Decorator --weimin li
-- [ ] write Extend Class --weimin li
-- [ ] write CSV Files --weimin li
-- [ ] write Reading Files --weimin li
+- [x] write Exception --weimin li
+- [x] write Unit Test --weimin li
+- [x] write Constructor --weimin li
+- [x] write Factory --weimin li
+- [x] write Decorator --weimin li
+- [x] write Extend Class --weimin li
+- [x] write CSV Files --weimin li
+- [x] write Reading Files --weimin li
 
 ## why learning git and commands
 **git** plays important role in version control, helping you to manage your work (sometimes your team work) works nicely.
@@ -50,7 +50,8 @@ This is a class project for IS601
 
 *written by Jiaxin Du*
 
-I used to do a project with 7 people for 2 years (it's not a big team but a long working time). We used git and gitlab in developing our website.
+I used to do 
+a project with 7 people for 2 years (it's not a big team but a long working time). We used git and gitlab in developing our website.
 
 In the begining I have no idea about git, and I totally messed up our team. I submitted bugs to the repo and everyone is mad at me. Then I realized the importance of learning git, actually I need to learn how to do continues integration.
 
