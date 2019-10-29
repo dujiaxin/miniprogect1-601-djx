@@ -16,7 +16,7 @@ definitions and examples of the following terms:
 * [Decorator](#Decorator)
 * [Extend Class](#Extend-Class)
 * [CSV Files](#CSV-Files)
-* [Reading Files](#Reading-Files)
+* [Reading File](#Reading-File)
 
 ## How Python uses Indentation to control Flow
 
@@ -107,10 +107,10 @@ So in the above example, the @ symbol directly creates a modified ordinary, elim
 ## Extend Class
 ## example of extend Class
 Suppose we have an animal class Animal with two properties name, age, and two methods sleep() and eat().
-![eclass](/images/eclass.PNG)
+![eclass](/images/eclass1.PNG)
 
 Suppose we have a Dog class that also contains these two properties and the two methods, as well as its own unique properties (color) and methods (dark).
-![eclass2](/images/eclass.PNG)
+![eclass2](/images/eclass2.PNG)
 
 When we write the dog class, we don't need to rewrite the two methods already in the Animal class. We can use it directly. The first line of code imports the Animal class for the inheritance of the Dog class. Import the class. Syntax: from module name import class name.
 In the third line, we pass the Animal class into Dog(), indicating that Dog inherits Animal, and the fifth line's super() means that the parent class's __init__() method is called for initialization. Dog also has its own specific property color ( Color), because there is no color attribute in Animal, so we need to use the self.color=color statement to assign values. The Dog class has its own specific method, bark() shit method, so the 13th, 14th, and 15th lines of code You can either call a specific method in your own class or call all methods in the parent class Animal.
